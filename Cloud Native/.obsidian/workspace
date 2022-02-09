@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "88b6c9809528c5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c20448a8df906d5",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb3a35a893442e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5a8fcfce530dd08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d8a33a83e040b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d73161c28b824ab4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90cf5f39d3b8b771",
+    "type": "split",
+    "children": [
+      {
+        "id": "1af858bf33a18e07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32d3757e49c81cf1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "1c20448a8df906d5",
+  "lastOpenFiles": [
+    "Pasted image 20220209153244.png",
+    "Cloud Native Stack.md",
+    "Cloud Native Applications.md",
+    "Ops Components.md",
+    "Microservice.md",
+    "Untitled.md"
+  ]
+}
